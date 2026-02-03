@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# FAISS index
+faiss_index/
+
+# Virtual environments
+venv/
+.env
